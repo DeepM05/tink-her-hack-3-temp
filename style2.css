@@ -64,7 +64,7 @@ header{
 }
  
 body{
-    background: url("images/bg.jpg") no-repeat;
+    background: url("/public/bg.jpg") no-repeat;
     background-size: cover;
 }
 .wrapper {
