@@ -19,7 +19,7 @@ A website that makes gifting your loved ones who live far away easier. It collec
 We realise how challenging it could be to gift our loved ones who stay far away from us.
 
 ### The Solution
-We attempted to create a medium through which the miles of distance can be bridged. 
+We attempted to create a medium through which the miles of distance can be bridged. We have attempted  to make a website that inputs the location of the recipient and suggests gifts based on their personal interests that can be easily accessed by someone from anywhere in the world. We've also tried to include handwritten notes and spotify/voice message barcodes to add a personal touch and make the gifts even more meaningful. 
 
 ## Technical Details
 ### Technologies/Components Used
