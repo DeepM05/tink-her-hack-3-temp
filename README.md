@@ -1,34 +1,33 @@
-# [Project Name] 🎯
+# HugInABox 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Blahh
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Anamika Nair - College Of Engg, Adoor
+- Member 2: Deepthi Mohan - College Of Engg, Adoor
+
 
 ### Hosted Project Link
-[mention your project hosted project link here]
-
+https://huginabox-wine.vercel.app/
 ### Project Description
-[2-3 lines about what your project does]
+A website that makes gifting your loved ones who live far away easier. It collects data of giftshops available in a given location and filters it according to the person's interests. We can also send personalized handwritten notes. We also aimed to make it more personalized by adding the option of sending spotify/voice messages as barcodes along with the gifts.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+We realise how challenging it could be to gift our loved ones who stay far away from us.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+We attempted to create a medium through which the miles of distance can be bridged. 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS,JavaScript
+- 
+- 
+- VS code
 
 For Hardware:
 - [List main components]
@@ -47,53 +46,22 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]https://drive.google.com/drive/u/0/folders/1vTDRPye9g4KCeJ4vWgvLyI3yBiXtWbpj
+shows login page of the website.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]https://drive.google.com/drive/u/0/folders/1Skzq3gyLM5sGLk0cYlS0x-Buxe6HecRd
+displays the dashboard of the website.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Screenshot3]https://drive.google.com/drive/u/0/folders/1G5O-ZPenOEWeBGtoifDfseb0aNSra-8d
+shows the page where gift items are suggested and there are options to filter these based on a  person's interests
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/drive/u/0/folders/140BO1lCVXGjDwYgANlMj4C1tR2J5i-JU
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+Anamika Nair - login page
+Deepthi Mohan - dashboard
+Anamika and Deepthi - gift items page
 ---
 Made with ❤️ at TinkerHub
